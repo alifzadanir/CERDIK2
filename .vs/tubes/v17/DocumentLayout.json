@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nizar\\Documents\\Telkom\\Matkul Sem. 4\\kpl\\tubes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B6280D-CBF5-421E-85D9-198B369D825F}|tubes\\tubes.csproj|c:\\users\\nizar\\documents\\telkom\\matkul sem. 4\\kpl\\tubes\\tubes\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B6280D-CBF5-421E-85D9-198B369D825F}|tubes\\tubes.csproj|solutionrelative:tubes\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B6280D-CBF5-421E-85D9-198B369D825F}|tubes\\tubes.csproj|c:\\users\\nizar\\documents\\telkom\\matkul sem. 4\\kpl\\tubes\\tubes\\help center.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B6280D-CBF5-421E-85D9-198B369D825F}|tubes\\tubes.csproj|solutionrelative:tubes\\help center.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B6280D-CBF5-421E-85D9-198B369D825F}|tubes\\tubes.csproj|c:\\users\\nizar\\documents\\telkom\\matkul sem. 4\\kpl\\tubes\\tubes\\tubes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{56B6280D-CBF5-421E-85D9-198B369D825F}|tubes\\tubes.csproj|solutionrelative:tubes\\tubes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Help Center.cs",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Matkul Sem. 4\\kpl\\tubes\\tubes\\Help Center.cs",
+              "RelativeDocumentMoniker": "tubes\\Help Center.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Matkul Sem. 4\\kpl\\tubes\\tubes\\Help Center.cs",
+              "RelativeToolTip": "tubes\\Help Center.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:38:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Matkul Sem. 4\\kpl\\tubes\\tubes\\UnitTest.cs",
+              "RelativeDocumentMoniker": "tubes\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Matkul Sem. 4\\kpl\\tubes\\tubes\\UnitTest.cs",
+              "RelativeToolTip": "tubes\\UnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:33:47.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tubes",
+              "DocumentMoniker": "C:\\Users\\nizar\\Documents\\Telkom\\Matkul Sem. 4\\kpl\\tubes\\tubes\\tubes.csproj",
+              "RelativeDocumentMoniker": "tubes\\tubes.csproj",
+              "ToolTip": "C:\\Users\\nizar\\Documents\\Telkom\\Matkul Sem. 4\\kpl\\tubes\\tubes\\tubes.csproj",
+              "RelativeToolTip": "tubes\\tubes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T14:22:12.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
