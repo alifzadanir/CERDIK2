@@ -1,0 +1,16 @@
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.Form1.resources
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.csproj.GenerateResource.cache
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.AssemblyInfoInputs.cache
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.AssemblyInfo.cs
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.csproj.CoreCompileInputs.cache
+D:\Kuliah\KPL\Notif\GuiTema\bin\Debug\net8.0-windows\GuiTema.exe
+D:\Kuliah\KPL\Notif\GuiTema\bin\Debug\net8.0-windows\GuiTema.deps.json
+D:\Kuliah\KPL\Notif\GuiTema\bin\Debug\net8.0-windows\GuiTema.runtimeconfig.json
+D:\Kuliah\KPL\Notif\GuiTema\bin\Debug\net8.0-windows\GuiTema.dll
+D:\Kuliah\KPL\Notif\GuiTema\bin\Debug\net8.0-windows\GuiTema.pdb
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.dll
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\refint\GuiTema.dll
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.pdb
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\GuiTema.genruntimeconfig.cache
+D:\Kuliah\KPL\Notif\GuiTema\obj\Debug\net8.0-windows\ref\GuiTema.dll
